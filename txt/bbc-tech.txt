@@ -3,35 +3,35 @@ https://www.bbc.co.uk/news/
 
   --
   
-Apple rushes to block 'zero-click' iPhone spyware
-https://www.bbc.co.uk/news/business-58540936?at_medium=RSS&at_campaign=KARANGA
-The flaw allows hackers to access devices even if users do not click on a link or file.
-Tue, 14 Sep 2021 03:22:28 GMT
+Foreign Office target of 'serious cyber incident'
+https://www.bbc.co.uk/news/technology-60309335?at_medium=RSS&at_campaign=KARANGA
+The BBC understands hackers accessed its systems but were detected.
+Tue, 08 Feb 2022 18:49:03 GMT
   --
-  Fake Walmart news release claimed it would accept cryptocurrency
-https://www.bbc.co.uk/news/technology-58545944?at_medium=RSS&at_campaign=KARANGA
-A news story claiming Walmart would accept cryptocurrency Litecoin was fabricated, the retail giant says.
-Mon, 13 Sep 2021 16:28:11 GMT
+  UK chip firm Arm sale by Softbank collapses amid competition fears
+https://www.bbc.co.uk/news/business-60297874?at_medium=RSS&at_campaign=KARANGA
+The sale of Cambridge-based Arm to Nvidia of the US has faced regulatory hurdles around the world.
+Tue, 08 Feb 2022 08:05:37 GMT
   --
-  Apple iPhone risk from powerful motorbike vibrations
-https://www.bbc.co.uk/news/technology-58507764?at_medium=RSS&at_campaign=KARANGA
-Camera performance can "degrade" if attached to high-volume, high-power motorbikes, Apple says.
-Mon, 13 Sep 2021 12:02:35 GMT
+  Meta told to overhaul policies over doxxing fears
+https://www.bbc.co.uk/news/technology-60302683?at_medium=RSS&at_campaign=KARANGA
+The company's Oversight Board says the sharing of private residential address should never be allowed.
+Tue, 08 Feb 2022 13:34:39 GMT
   --
-  Epic appeals against Apple App Store ruling
-https://www.bbc.co.uk/news/technology-58545942?at_medium=RSS&at_campaign=KARANGA
-The Fortnite-maker lodges an appeal in its Apple case, two days after the judge's ruling.
-Mon, 13 Sep 2021 11:50:50 GMT
+  Porn sites will be legally required to verify users' age
+https://www.bbc.co.uk/news/technology-60293057?at_medium=RSS&at_campaign=KARANGA
+Users may be asked to prove they own a credit card or confirm their age, under new UK rules.
+Tue, 08 Feb 2022 00:06:10 GMT
   --
-  Cressida Dick: Tech giants make it impossible to stop terrorists
-https://www.bbc.co.uk/news/business-58537599?at_medium=RSS&at_campaign=KARANGA
-Pressure on tech firms intensifies as Priti Patel unveils fund for technologies to keep children safe.
-Sun, 12 Sep 2021 19:03:32 GMT
+  TikTok acts on unhealthy eating videos
+https://www.bbc.co.uk/news/technology-60302685?at_medium=RSS&at_campaign=KARANGA
+The app will remove videos which encourage short-term fasting and over-exercising.
+Tue, 08 Feb 2022 11:59:11 GMT
   --
-  Alibaba slides on report China plans to break up payment app
-https://www.bbc.co.uk/news/business-58540935?at_medium=RSS&at_campaign=KARANGA
-Chinese regulators have been targeting Ant Group and other technology firms operating in the country.
-Mon, 13 Sep 2021 08:20:03 GMT
+  Amazon and Nike exploring Peloton takeover, reports say
+https://www.bbc.co.uk/news/business-60283870?at_medium=RSS&at_campaign=KARANGA
+The exercise equipment maker's shares have slumped in recent months as it faced a number of challenges.
+Mon, 07 Feb 2022 10:06:04 GMT
   --
   
 
